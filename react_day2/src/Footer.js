@@ -1,12 +1,10 @@
 import React from "react";
 
 const Footer = () => {
-    return (
+  return (
     <footer>
       <small>Copyright</small>
-      </footer>
-      
-
+    </footer>
   );
 };
 
